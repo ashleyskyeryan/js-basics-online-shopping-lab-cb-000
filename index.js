@@ -19,7 +19,7 @@ function addToCart(item) {
 }
 
 function viewCart() {
-  for (var i = 0; i < cart.length;  i++) {
+  for (var i = 0; i < cart.length; i++) {
     console.log()
   }
 

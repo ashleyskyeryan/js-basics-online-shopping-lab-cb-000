@@ -19,8 +19,11 @@ function addToCart(item) {
 }
 
 function viewCart() {
-  for (var cartItems = 0; cart.length > 0; cartItems ++1)
-  // write your code here
+  for (var i = 0; i < cart.length;  i++) {
+    console.log()
+  }
+
+
 }
 
 function total() {
